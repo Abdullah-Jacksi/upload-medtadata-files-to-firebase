@@ -5,7 +5,7 @@
 This app is to pick a file (Any type of files: pdf, doc, png, jpg, video, audio, etc..) and upload its metadata (name, size, extension, upload date) to Firebase Firestore. And get list of metadata of files from Firebase Firestore.
 
 ## Screenshot
-<img src="https://github.com/Abdullah-Jacksi/upload-medtadata-files-to-firebase/blob/master/upload_medtadata_firebase/assets/screenshot.jpg" width="300" />
+<img src="https://github.com/Abdullah-Jacksi/upload-medtadata-files-to-firebase/blob/master/assets/screenshot.jpg" width="300" />
 
 ## What has been implemented
 The basic features that are fulfilled include:
